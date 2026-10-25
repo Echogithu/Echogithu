@@ -1,10 +1,10 @@
 <p align="right"><strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a></p>
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header.svg" width="100%" alt="Echo — AI &amp; Full-Stack Builder">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Echogithu/Echogithu/b8255d85c37263851a62a981bf9f4fda5f1802cb/assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Echogithu/Echogithu/b8255d85c37263851a62a981bf9f4fda5f1802cb/assets/header-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Echogithu/Echogithu/b8255d85c37263851a62a981bf9f4fda5f1802cb/assets/header-dark.svg">
+  <img src="https://raw.githubusercontent.com/Echogithu/Echogithu/b8255d85c37263851a62a981bf9f4fda5f1802cb/assets/header.svg" width="100%" alt="Echo — AI &amp; Full-Stack Builder">
 </picture>
 
 ### 👋 Hi, I'm Echo
